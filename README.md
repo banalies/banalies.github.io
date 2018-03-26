@@ -1,2 +1,0 @@
-# banalies.github.io
-host

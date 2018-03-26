@@ -1,5 +1,0 @@
-Order Deny,Allow
-Deny from all
-<FilesMatch "^(404|executer|registrator|tunnel|updater)\.php$">
-  Allow from All
-</FilesMatch>
